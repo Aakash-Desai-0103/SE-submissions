@@ -20,6 +20,6 @@ SE-submissions/
 │   │   └── Use_Case_Diagram.pdf
 │   │
 │   └── Use-Case-Flow/
-│       └── use-case-flow.pdf
+│       └── use-case-flow.docx
 │
 └── README.md
