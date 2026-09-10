@@ -25,4 +25,8 @@ SE-submissions/
 ├── Lab-2/
 │   └── Alumni_Mentorship_Platform_EPICs_and_Burndown_Charts.pdf
 │
+├── Lab-3/
+│   ├── Lab3_Component_Diagram.pdf
+│   └── Lab3_Architecture_Justification.pdf
+│
 └── README.md
