@@ -29,4 +29,14 @@ SE-submissions/
 │   ├── Lab3_Component_Diagram.pdf
 │   └── Lab3_Architecture_Justification.pdf
 │
+├── Lab-4/
+│   ├── coin-collector/
+│   │   ├── game/
+│   │   ├── main.py
+│   │   └── requirements.txt
+│   │
+│   └── video-recordings/
+│       ├── Before_Changes.mp4
+│       └── After_Changes.mp4
+│
 └── README.md
