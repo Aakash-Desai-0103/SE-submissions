@@ -39,4 +39,14 @@ SE-submissions/
 │       ├── Before_Changes.mp4
 │       └── After_Changes.mp4
 │
+├── Lab-5/
+│   ├── maintenance_system.py
+│   ├── issues.md
+│   ├── pylint_report_before.txt
+│   ├── pylint_report_after.txt
+│   ├── bandit_report_before.txt
+│   ├── bandit_report_after.txt
+│   ├── flake8_report_before.txt
+│   └── flake8_report_after.txt
+│
 └── README.md
