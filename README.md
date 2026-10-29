@@ -49,4 +49,11 @@ SE-submissions/
 │   ├── flake8_report_before.txt
 │   └── flake8_report_after.txt
 │
+├── Lab-6/
+│   ├── CodeCoverageTest_08_ski_resort_pass.py
+│   ├── CodeCoverage_Results.png
+│   ├── BranchCoverageTest_08_ski_resort_pass.py
+│   └── BranchCoverage_Results.png
+│
 └── README.md
+```
